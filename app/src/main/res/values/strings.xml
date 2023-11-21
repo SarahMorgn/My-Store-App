@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">My Store</string>
+    <string name="welcome">Welcome to App</string>
+    <string name="explore_us">Explore Us</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="name_label">Enter Your Name</string>
+    <string name="email">Email</string>
+    <string name="email_entering">Enter Yor Email</string>
+    <string name="password_entering">Enter Your Password</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="signup_failed">SignUp With Email: Failed.</string>
+    <string name="password_chars">Password must be at least 6 characters</string>
+    <string name="invalid_email">InValid Email</string>
+    <string name="wrong_EP">Wrong Email or Password</string>
+    <string name="reset">Reset</string>
+    <string name="email_sent">Email sent.</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="home">Home</string>
+    <string name="items">Items</string>
+    <string name="orders">Orders</string>
+    <string name="more">More</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="today_s_sale">Today\'s Sale</string>
+
+    <string name="price_format">EGP %d</string>
+    <string name="order_id_date">#%s,%s</string>
+    <string name="view_details">View Details</string>
+    <string name="products">Products</string>
+
+    <string name="ProductData">Product\'s Data</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="size">Size:</string>
+    <string name="product_description">Product Description</string>
+    <string name="save">Save</string>
+    <string name="warning_data_entering">Please Enter All Data</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+    <string name="product_photo">Product Photo:</string>
+    <string name="permissionDenied">Permission is Denied</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="today_s_sale">Today\'s Sale</string>
+    <string name="view_details">View Details</string>
+    <string name="products">Products</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="size">Size:</string>
+    <string name="product_description">Product Description</string>
+    <string name="save">Save</string>
+    <string name="product_photo">Product Photo:</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
